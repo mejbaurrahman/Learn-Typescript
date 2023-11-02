@@ -1,4 +1,5 @@
-const poorUser = {
-    name: 'Mr x',
+{
+ const poorUser = {
     
+ }
 }

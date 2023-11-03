@@ -18,4 +18,9 @@ const user = {
 const {contactNo, 
     name:{middleName : midName} // name alias, you can not use identifier as middleName:string here.
 } = user;
+
+const myFriends = ['chandler', 'joey', 'ross', 'james', 'rachel'];
+
+const [, , bestFriend,...rest ] = myFriends;
+
 }

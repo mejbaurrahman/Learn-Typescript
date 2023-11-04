@@ -120,7 +120,7 @@ const richDeveloper : Developer<AppleWatch
         sleepTrack: true
     }, 
     bike:{
-        engine:'Yzhama',
+        engine:'Yamaha',
         capacity: 12
     }
 

@@ -22,7 +22,7 @@
     {
         name: "user2",
         age:51
-
+        
     }, 
     {
         name: "user3",
@@ -36,7 +36,7 @@
 
     const manush: GenericTuple<string, string> =['Mr x', 'Mr y']
     
-    const userWithId: GenericTuple<number, {name:string, email:string}> = [123, {name:'Mr X', email: 'a@gmail.com'}]
+    const userWithId: GenericTuple<number, {name:string, email:string}> = [123, {name:'Mr X', email:'a@gmail.com'}]
     //
 
 }

@@ -40,4 +40,5 @@
 
     const student1 = addCourseToStudent({name:'Mr,x', email: 'x@gmail.com', devType:'Next level Web developer'})
     const student2 = addCourseToStudent({name:'Mr,Y', email: 'x@gmail.com', devType:'Next level Web developer', hasWatch: 'AppleWatch'})
+
 }

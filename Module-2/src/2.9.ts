@@ -19,5 +19,5 @@
     type HasShip = CheckVehicle<"ship">
     type HasTractor = CheckVehicle<"tractor">
     type HasPlane = CheckVehicle<"plane">
-    //
+    
 }

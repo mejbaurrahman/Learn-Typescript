@@ -3,7 +3,7 @@
     class BankAcount {
       public readonly id: number;
        public name: string;
-       private _balance: number;
+       private _balance: number; // jodi ei class er child e ei propertyta access korte hoi tahole private er poriborte protected hobe
 
         constructor(id: number, name: string, _balance: number){
             this.id = id;

@@ -2,9 +2,7 @@
     // abstraction  1. interface, 2. abstract class use kore
 
     interface Vehicle1{
-        // name: string;
-        // model: number;
-
+       
         //idea or just declare function
         startEngine(): void;
         stopEngine(): void;
@@ -29,10 +27,7 @@
 
 
     }
-    // const vehicle1: Vehicle1 ={
-    //     name: "Toyota",
-    //     model: 2000
-    // }
+  
 
     const Toyota = new Car();
     Toyota.startEngine();
